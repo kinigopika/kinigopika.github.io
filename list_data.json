@@ -3,20 +3,19 @@
 		{
 			"Organization": "UC Berkeley, CA",
 			"Title": "Reader",
-			"Date": "2022",
-			"Responsibilities": "Reader for Text and Data Media History, Department of Media Studies"
+			"Date": "2022"
 		},
+			
 		{
 			"Organization": "Micro Focus",
 			"Title": "Software Designer",
-			"Date": "2019-2022",
-			"Responsibilities": "Backend Engineer working on designing and developing enterprise-ready applications"
+			"Date": "2019-2022"
+			
 		},
 		{
 			"Organization": "Micro Focus",
 			"Title": "Intern",
-			"Date": "2019",
-			"Responsibilities": "Project intern"
+			"Date": "2019"
 		}
 	]
 }
