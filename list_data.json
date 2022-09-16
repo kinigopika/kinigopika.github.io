@@ -1,22 +1,22 @@
 {
 	"Experience": [
 		{
-			"Organization": "Lost In Translation",
-			"Title": "Sofia Coppola",
-			"EndYear": "R",
-			"Responsibilities": "2003"
+			"Organization": "UC Berkeley, CA",
+			"Title": "Reader",
+			"Date": "2022",
+			"Responsibilities": "Reader for Text and Data Media History, Department of Media Studies"
 		},
 		{
-			"Organization": "Lost In Translation",
-			"Title": "Sofia Coppola",
-			"EndYear": "R",
-			"Responsibilities": "2003"
+			"Organization": "Micro Focus",
+			"Title": "Software Designer",
+			"Date": "2019-2022",
+			"Responsibilities": "Backend Engineer working on designing and developing enterprise-ready applications"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Organization": "Micro Focus",
+			"Title": "Intern",
+			"Date": "2019",
+			"Responsibilities": "Project intern"
 		}
 	]
 }
