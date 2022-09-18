@@ -1,21 +1,47 @@
 {
-	"Experience": [
+	"My Movies": [
 		{
-			"Organization": "UC Berkeley, CA",
-			"Title": "Reader",
-			"Date": "2022"
+			"movie": "The Intern",
+			"genre": "Comedy,Drama",
+			"release":"2015",
+			"rating": "7.1",
+			"language": "English"
 		},
 			
 		{
-			"Organization": "Micro Focus",
-			"Title": "Software Designer",
-			"Date": "2019-2022"
+			"movie": "ZNMD",
+			"genre": "Comedy,Drama",
+			"release":"2011",
+			"rating": "8",
+			"language": "Hindi"
 			
 		},
 		{
-			"Organization": "Micro Focus",
-			"Title": "Intern",
-			"Date": "2019"
+			"movie": "Forrest Gump",
+			"genre": "Drama",
+			"rating": "8.9",
+			"release":"1994",
+			"language": "English"
+		},
+		{
+			"movie": "The Pursuit of Happyness",
+			"genre": "Drama",
+			"release":"2004",
+			"rating": "8",
+			"language": "English"
+		},
+		{
+			"movie": "Harry Potter and the Philosopher's Stone",
+			"genre": "Fantasy, Adventure",
+			"release":"2001",
+			"rating": "8.5",
+			"language": "English"
+		},{
+			"movie": "Iron Man",
+			"genre": "Action",
+			"release":"2008",
+			"rating": "8",
+			"language": "English"
 		}
 	]
 }
